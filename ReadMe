@@ -1,0 +1,34 @@
+Project Idea
+E Commerce Cart - Add to Cart, Different Quanity
+Cart shows all 
+Purchase Items
+Payment shows Items
+
+
+
+Concepts Covered
+UI - Bootstrap
+Components
+Modals
+Building the Navbar
+Implementing React Router
+Map to go over array- every single element in the array and do certain logic
+Use State and Modals
+Cart Context- Store IDS and Functions
+Javascript Array Functions 
+spread operator
+Terniary Operators
+Map Statements
+Filter Function
+Use Context Hook
+Cart Counter
+Stripe Implementation
+Stripe Product Setup
+Backend Stack: Express
+Cors and Stripe
+Making Fetch Request 
+
+
+
+
+
